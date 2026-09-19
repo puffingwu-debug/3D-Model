@@ -1,0 +1,41 @@
+﻿F-22A · 猛禽 · 可拆分飞机模型
+
+打开 F22_Modular.blend 即可查看模型。
+模型含 862 个独立零件对象、123 个拆分组，可单独选择、编辑或隐藏。
+根据公开外观创作的艺术模型；内部结构为展示用示意。
+
+装配与爆炸动画
+第 1 帧：完整装配。
+第 100 帧：全部展开。
+第 220 帧：复原。
+时间轴按空格播放；使用展开摄像机可以看到完整的零件展开范围。
+
+一键操作面板
+在 Blender 文本编辑器打开 Aircraft_Controls.py，按 Alt+P 运行。
+回到 3D 视图按 N，打开右侧 Aircraft 标签。
+可直接点击“完整装配”“全部展开”“播放往返动画”或“选中展开控制器”。
+“展开程度”滑条定位第 28–100 帧，保留原动画的缓动和关键帧。
+“显示画面文字”同时控制视图与渲染文字，切换视角时保留勾选状态。
+每次重新打开 Blender 后运行一次脚本；也可将其安装为插件。
+
+手动编辑
+在大纲视图按名称选择零件或拆分组。
+位置通道由展开动画驱动；如需自由移动某个零件，右击该零件的位置通道，选择“删除驱动器”，即可单独挪动。该操作可撤销。
+展开控制器名为“EXPLODE • 展开程度 0—1”，其自定义属性 Explode 控制拆分。
+调整动画时可编辑该属性已有的关键帧。
+装配摄像机：CAM 01 · Assembled。
+展开摄像机：CAM 02 · Exploded。
+展示文字集中在“91 · TITLES / 展示标注”集合。
+
+交付内容
+F22_Modular.blend：完整可编辑模型，字体已打包，飞机使用程序材质，无外部贴图依赖。
+F22_01_Assembled.png / 02_Exploded.png / 03_Rear.png：3000×2100 高清渲染。
+F22_Explode_Animation.mp4：8 秒装配—展开—复原预览。
+Aircraft_Controls.py：可选的一键控制面板，也已内置在模型文本中。
+场景以 Blender 5.2 制作，使用 Cycles 光线追踪渲染。
+
+
+外形参考：
+https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104506/f-22-raptor/
+https://www.lockheedmartin.com/en-us/products/f-22.html
+https://commons.wikimedia.org/wiki/File:Lockheed_Martin_F-22A_Raptor_%E2%80%9908-152_-_FF%E2%80%99_(29102586122).jpg

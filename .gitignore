@@ -1,0 +1,8 @@
+*.blend1
+*.blend2
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+work/
