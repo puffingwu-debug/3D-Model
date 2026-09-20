@@ -1,0 +1,841 @@
+{
+  "archive": "PV_Park_V06_Complete.zip",
+  "root": "pv-park-v06",
+  "bytes": 213877527,
+  "sha256": "b0d251771fbf9f8a49c0f4473d5449a4dd7bc5bb9d2ae50dfe320219380095bd",
+  "parts": [
+    {
+      "file": "PV_Park_V06_Complete.zip.part001",
+      "bytes": 41943040,
+      "sha256": "a19dda72c9d3c911482f6f765f8466b9803d96f2c70ef0f4d212876ff1777270"
+    },
+    {
+      "file": "PV_Park_V06_Complete.zip.part002",
+      "bytes": 41943040,
+      "sha256": "48ff42ececf81b9260f3b79c6bd87b65c0be281a2b9ec0d755ca9ed032292fd2"
+    },
+    {
+      "file": "PV_Park_V06_Complete.zip.part003",
+      "bytes": 41943040,
+      "sha256": "3b9b50868eda005e008944bb0833ec2a5c5fca13be924d58f377634259817278"
+    },
+    {
+      "file": "PV_Park_V06_Complete.zip.part004",
+      "bytes": 41943040,
+      "sha256": "4e8fe386a7204b5d17785c9d8aa3877fb1fdd0c6ac5170735d2d59da3925cecf"
+    },
+    {
+      "file": "PV_Park_V06_Complete.zip.part005",
+      "bytes": 41943040,
+      "sha256": "21decff0f3435ac50e1ed0b694a14f122b77c70762710f09307dd7828b3ee1a9"
+    },
+    {
+      "file": "PV_Park_V06_Complete.zip.part006",
+      "bytes": 4162327,
+      "sha256": "a70ab1dec0d3031597490c7432d7c8eaf33e5c8d590aa99c2f719040f6bb6143"
+    }
+  ],
+  "file_count": 160,
+  "contents": [
+    {
+      "path": "README.md",
+      "bytes": 14363,
+      "sha256": "faabe0f9d1f0d9c2d6c7cd698709f5bd35212bbfa7d6e7b8fe8f56093194e8f8"
+    },
+    {
+      "path": "base_assets.blend",
+      "bytes": 759339,
+      "sha256": "a2d55c6e72df0017087034505f910ab0da520b607ad220c3d0498b6ca8b432e4"
+    },
+    {
+      "path": "city_assets.blend",
+      "bytes": 1410720,
+      "sha256": "56dbd8e09b2d5c05c7e895c123eff344b1b69c60d76825508b9dbd9f025bcce1"
+    },
+    {
+      "path": "dense_assets.blend",
+      "bytes": 810681,
+      "sha256": "1c980d3a42cc25e6a24e09158117028731067895b1cd1cedb75579d1f4d7b6fc"
+    },
+    {
+      "path": "mega_assets.blend",
+      "bytes": 462058,
+      "sha256": "2c57952e7dae1dca8b7dd7a463ed419c59da1f621e437dee8770d6f9915d1501"
+    },
+    {
+      "path": "models/01_solar_factory.glb",
+      "bytes": 211064,
+      "sha256": "67c83645f8564661f3a7f0268547c91229c3cca4857b6317760e9bb1aa80342a"
+    },
+    {
+      "path": "models/01_solar_factory_b.glb",
+      "bytes": 217680,
+      "sha256": "1c6f02a253b6933a224b019e9f03274ac6a18736889ce0670ea55c057466be20"
+    },
+    {
+      "path": "models/01_solar_factory_c.glb",
+      "bytes": 222836,
+      "sha256": "67129398187626377da824913b4cb5867c624b0481b34819c9017836be139b14"
+    },
+    {
+      "path": "models/02_bipv_office.glb",
+      "bytes": 146736,
+      "sha256": "c7ba3ace71761f4346a4a2f395974ae9768a506cc0fa59da97250c6e2a998be0"
+    },
+    {
+      "path": "models/02_bipv_office_b.glb",
+      "bytes": 154616,
+      "sha256": "922da1f2a20c16dbe1703d2d0395cd752a7ee32879fc7ad69f2889fbb7298280"
+    },
+    {
+      "path": "models/02_bipv_office_c.glb",
+      "bytes": 165420,
+      "sha256": "5d2bb4682e6413a0fc470b37cb29d17d1d1d8531b56cc3c61b1bad0da98c71ac"
+    },
+    {
+      "path": "models/03_solar_tile_house.glb",
+      "bytes": 215544,
+      "sha256": "35263c357e746eb348def0ebdd90293443b7ca82ca3ee139286718e3991d006d"
+    },
+    {
+      "path": "models/03_solar_tile_house_b.glb",
+      "bytes": 234196,
+      "sha256": "2284db18725950fb494a525bf74879bcff57b15f6b89a863660766902d6a1b98"
+    },
+    {
+      "path": "models/03_solar_tile_house_c.glb",
+      "bytes": 221472,
+      "sha256": "70abe1313c8a12bcbdb42e0fe42f2815636ea9a8af137af1aa7242b02daa6673"
+    },
+    {
+      "path": "models/04_solar_carport.glb",
+      "bytes": 172968,
+      "sha256": "f9ac57e4e495df2a191ce76bc1a8d3c5805f0960590266f4328976b281e64289"
+    },
+    {
+      "path": "models/04_solar_carport_b.glb",
+      "bytes": 178032,
+      "sha256": "4452549a66baff1f86dfda58af7807c290917c10d2838baaa1c7debda762f810"
+    },
+    {
+      "path": "models/04_solar_carport_c.glb",
+      "bytes": 179864,
+      "sha256": "d3876382cb4366b174674be4bf8ec84e8f52dac792b368ee7fd79b3275f8ceba"
+    },
+    {
+      "path": "models/05_steel_roof_bapv.glb",
+      "bytes": 258316,
+      "sha256": "f57562312e2572c3aeb4579725eb58d6bcc2e4f64a8ca1e93fce45c15fb1e3fe"
+    },
+    {
+      "path": "models/05_steel_roof_bapv_b.glb",
+      "bytes": 271164,
+      "sha256": "ef4b479cbbf08283c80051ec32b2bad6ef3a967fa09be4481be662362334e3ba"
+    },
+    {
+      "path": "models/05_steel_roof_bapv_c.glb",
+      "bytes": 267600,
+      "sha256": "66ce3a659b4e6e9b49e7c784ee2f30d84a2d80a412be28deeb92be1c0ba9a56d"
+    },
+    {
+      "path": "models/06_pitched_roof_bapv.glb",
+      "bytes": 131320,
+      "sha256": "d5bf5c2fb4264dd433b5ea5f59cb01e682f3c1d5ce49b1ea8caaad6a09f325fb"
+    },
+    {
+      "path": "models/06_pitched_roof_bapv_b.glb",
+      "bytes": 135560,
+      "sha256": "5b7f3c1b3463d1de0d4146ed6e94dd26d7ae801169c516e53dc977806b05bfbe"
+    },
+    {
+      "path": "models/06_pitched_roof_bapv_c.glb",
+      "bytes": 146504,
+      "sha256": "2312b9e3a042f882665b675196a3dc734355031fdf27f561735b51329aa20483"
+    },
+    {
+      "path": "models/07_pv_sound_barrier.glb",
+      "bytes": 182764,
+      "sha256": "18290d74e6db235a792b5a24f17824fd6fc14ee14cef871dafc22a595e2eb4d6"
+    },
+    {
+      "path": "models/07_pv_sound_barrier_b.glb",
+      "bytes": 193844,
+      "sha256": "66190366dccdbbe7179cb82550973f224fb6ec11406f815ea7e0dc4137bc62d2"
+    },
+    {
+      "path": "models/07_pv_sound_barrier_c.glb",
+      "bytes": 190436,
+      "sha256": "b74b496dcd46a54483da1bdbb1d6711d87f09c24c32c7aaead0acc4a7dc5e5c1"
+    },
+    {
+      "path": "models/08_transparent_pv_tower.glb",
+      "bytes": 857824,
+      "sha256": "2a0a70b67862c702768f227c33e4fbf8936b2d2d2a5389a3e20cc22ce1315775"
+    },
+    {
+      "path": "models/08_transparent_pv_tower_b.glb",
+      "bytes": 863724,
+      "sha256": "426791c3abdd8726aab797208345f2c2d285fc7e5c4e6e551f07d41f162e6cf3"
+    },
+    {
+      "path": "models/08_transparent_pv_tower_c.glb",
+      "bytes": 886308,
+      "sha256": "3aed272377850d7baa8b35b2b9e5478e39fed4eec449c160c712e428c9b277ee"
+    },
+    {
+      "path": "models/09_solar_streetlight.glb",
+      "bytes": 27816,
+      "sha256": "9929859e10d75d0348e595c378fb764c429b06fa9569b70c41bf9e74436f7d37"
+    },
+    {
+      "path": "models/09_solar_streetlight_b.glb",
+      "bytes": 30360,
+      "sha256": "6106ffeb044f8950bb5c0c2655ce33f2c39f9e9ad1cfd3861b45af4c38d72e9b"
+    },
+    {
+      "path": "models/09_solar_streetlight_c.glb",
+      "bytes": 32988,
+      "sha256": "e063d4875eb3546a60833ea5e89128f3233f454e7f971d68073c2a4fcce54565"
+    },
+    {
+      "path": "models/10_tower_01.glb",
+      "bytes": 782752,
+      "sha256": "dfaed82adedb8b6ef221f4f435ea5b12042057de34a5f7d85950931b0c8f2ce6"
+    },
+    {
+      "path": "models/10_tower_02.glb",
+      "bytes": 782048,
+      "sha256": "6fc50b19a032a4ed07da3d8a7be7e5bb4ac8f4569d37a397cafb85b1e9536a6b"
+    },
+    {
+      "path": "models/10_tower_03.glb",
+      "bytes": 714004,
+      "sha256": "053fc4bc038ba21c25b5ca7f4ec6ed6c213d9c3a667a7b6f8462e53826a496ec"
+    },
+    {
+      "path": "models/10_tower_04.glb",
+      "bytes": 522852,
+      "sha256": "7af66ffdded99146af675b1e610db5bdb1caf8862c989719c19593560a6662cc"
+    },
+    {
+      "path": "models/10_tower_05.glb",
+      "bytes": 709896,
+      "sha256": "e367890dd8b41a68aba64b4e54f2233110a688d22aa8e74e5ccba6e9e84048b1"
+    },
+    {
+      "path": "models/10_tower_06.glb",
+      "bytes": 608988,
+      "sha256": "e958a5b534d4434a3409c8af6935883eb39c6ccbda2835754c2726d886f012c7"
+    },
+    {
+      "path": "models/10_tower_07.glb",
+      "bytes": 952388,
+      "sha256": "831b02ee397ac257fde6bdb962616dcccdd7dcc18fc61c29918a5b624a043f8e"
+    },
+    {
+      "path": "models/10_tower_08.glb",
+      "bytes": 374388,
+      "sha256": "86d06d7cd9d100b1b83a392cd37eef00527d24cd977d6c04722a685c8e4d90c3"
+    },
+    {
+      "path": "models/11_urban_01.glb",
+      "bytes": 135456,
+      "sha256": "01d6aacc1f97dab2f88a54c66fe31753b3270d8e0d9c187053d59cc07c3a0c68"
+    },
+    {
+      "path": "models/11_urban_02.glb",
+      "bytes": 245176,
+      "sha256": "aeb127fa8d18eee96fd3d0aa66b4351d4eb7aed68d673f27e38c9f51828231a6"
+    },
+    {
+      "path": "models/11_urban_03.glb",
+      "bytes": 189700,
+      "sha256": "f4355fb718d5412cb758c2429ba705f00c116ea246473e2f1ea898e2e91c5415"
+    },
+    {
+      "path": "models/11_urban_04.glb",
+      "bytes": 864364,
+      "sha256": "b959e720bed2db49d9df62ecda5c2d32fe04ba60c8a70f1c63647423bf45352d"
+    },
+    {
+      "path": "models/11_urban_05.glb",
+      "bytes": 105380,
+      "sha256": "8d0f7586a561151748527d5fbe5c93afd58e0fa110aacfeb6c4913f9561c5eac"
+    },
+    {
+      "path": "models/11_urban_06.glb",
+      "bytes": 139180,
+      "sha256": "c772f76edb51eabebde48757f428a2db78884b86ff83ae12881a913f6f77e72e"
+    },
+    {
+      "path": "models/12_mega_factory.glb",
+      "bytes": 659136,
+      "sha256": "c9a494ee20b8d63e5b6b180669c6c087b4095f977269f4135423c36a8627634d"
+    },
+    {
+      "path": "models/13_ev_parking.glb",
+      "bytes": 992356,
+      "sha256": "b6311af1955e93e2072970a4744ac57a24188b7c1136808e9176af43a342c67e"
+    },
+    {
+      "path": "models/14_office_a.glb",
+      "bytes": 189968,
+      "sha256": "2782c61c33016d4726720734e302c54a8dd903ce4006e6fac0fdfe55e50d23fe"
+    },
+    {
+      "path": "models/14_office_b.glb",
+      "bytes": 203044,
+      "sha256": "35a0736cf830ff107bbf467bfba26a8ce4ac80076ea7bb69f3fb69e87b0825ce"
+    },
+    {
+      "path": "models/14_office_c.glb",
+      "bytes": 298644,
+      "sha256": "b8cc9690209e7713d7dec0f21f83c05afa33990ecc6172e1a0d0b6fff02b187b"
+    },
+    {
+      "path": "models/15_apartment_a.glb",
+      "bytes": 577220,
+      "sha256": "bbb6154bf3937e904605f4e40465a45c9ad439c77e5742cddba9232c4abd32e3"
+    },
+    {
+      "path": "models/15_apartment_b.glb",
+      "bytes": 632528,
+      "sha256": "752eb88da946232642c96ad78e42229e3a3664d575e5e3bf679856c4267b1c02"
+    },
+    {
+      "path": "models/15_apartment_c.glb",
+      "bytes": 865912,
+      "sha256": "400019298aaf7094d8c6d1fdd600e3e3a087e060c570b60a52a0efb832c96171"
+    },
+    {
+      "path": "models/16_supermarket.glb",
+      "bytes": 346552,
+      "sha256": "132977adbe08aa0719ef933daf788e84ac31982e585dbe90898e8adf753926f6"
+    },
+    {
+      "path": "models/17_hospital.glb",
+      "bytes": 717344,
+      "sha256": "bab7cda0e692483408db3363f0792b61a811a698decff684f9d6e3a5dd631a2f"
+    },
+    {
+      "path": "models/18_ev_parking_west.glb",
+      "bytes": 500936,
+      "sha256": "d4890f9094d6dc7a924b26019fc045efef6794b75b37352cfb647c2db4242b4e"
+    },
+    {
+      "path": "models/park.glb",
+      "bytes": 17707808,
+      "sha256": "0155e2ac08b0a4881f0a130a8f8f390e2c37d988c05baf1b705875da1c15c7ad"
+    },
+    {
+      "path": "parking_extra.blend",
+      "bytes": 234747,
+      "sha256": "01de498283b86d1602279ed0820ea0ae7e937eeb2060fc3abe8cbb93da140db1"
+    },
+    {
+      "path": "previews/04_blue_hour.png",
+      "bytes": 2823475,
+      "sha256": "2ac035f1df93bca1f247d99eb00cb906271d49b0028356cbc2324de57a4b7ed8"
+    },
+    {
+      "path": "previews/06_sunrise.png",
+      "bytes": 3169350,
+      "sha256": "3d3a7c7d79275a373f49a5ffba3132ff67c01c5c88d792ce9b66177f21656c13"
+    },
+    {
+      "path": "previews/12_mega_factory.png",
+      "bytes": 3102114,
+      "sha256": "dd573c61e046fed8dc3bb7fcb4f2aaa8af5d2a981b6082e0cd9b90ba1024ad2b"
+    },
+    {
+      "path": "previews/12_noon.png",
+      "bytes": 3315013,
+      "sha256": "91df76798d13273c442176cd2b464bc9523956f177bc5da9a397ac9223fcac03"
+    },
+    {
+      "path": "previews/13_ev_parking.png",
+      "bytes": 2858705,
+      "sha256": "3710efac2808c046fd332e0b333806f574977c274224728b84db39f7a115ece4"
+    },
+    {
+      "path": "previews/18_ev_parking_west.png",
+      "bytes": 2042259,
+      "sha256": "b15a713336caf7933ceb2a332cdfe75624bfa5fb20841c863139fdac05986e34"
+    },
+    {
+      "path": "previews/V06园区规划.png",
+      "bytes": 5042447,
+      "sha256": "abe34a80f398bb95a8e1403f363bb9451f8e28c57b0d4c0c0816e408d0d5fbbb"
+    },
+    {
+      "path": "previews/central_fountain.png",
+      "bytes": 3314942,
+      "sha256": "abbe46e57aab414912ef281245a3253aabf523e57d17337c954b2be0a0b9a0a6"
+    },
+    {
+      "path": "previews/highway_interchange.png",
+      "bytes": 3258126,
+      "sha256": "8be87ca5480263a9e3f361208cefd33b1df36585bed001e4e2e1ca0cfb1f876f"
+    },
+    {
+      "path": "previews/mega_factory_parking.png",
+      "bytes": 3428571,
+      "sha256": "2ee98bf29aef51e76c78a998293c8d0c2109c4f27db8c4a79f7177fe57318647"
+    },
+    {
+      "path": "previews/tour_10.png",
+      "bytes": 1243679,
+      "sha256": "ffce7facc7b599efdf9ff377e2f9ed08845afa01e25caa566b39a62a1e530317"
+    },
+    {
+      "path": "previews/tour_27.png",
+      "bytes": 1874669,
+      "sha256": "63843f959cc838293ca28eabb8f42220f861eac81e6c259a76da348d28bd3871"
+    },
+    {
+      "path": "previews/tour_37.png",
+      "bytes": 1942130,
+      "sha256": "7c050bbad4c20b0e71089fa5ee0cacae78e9ebdedb70db0881d985a4dbabb9f2"
+    },
+    {
+      "path": "previews/tour_52.png",
+      "bytes": 2099562,
+      "sha256": "ce0956e6ca12ce783c68184b6d0f2a0fc7f3f08cfb6b1ea1bc5c8d39b63db86a"
+    },
+    {
+      "path": "previews/tour_71.png",
+      "bytes": 2044238,
+      "sha256": "597d2960d99d3bcb6e251db2d4edd5eaafcf0f4541bace8a4cc64cb054b3fcbb"
+    },
+    {
+      "path": "previews/tour_83.png",
+      "bytes": 1844652,
+      "sha256": "c86bf93291bb347f01bbda4c426ab7f6e243dc50a304d0c4b7755adb81546f06"
+    },
+    {
+      "path": "previews/varied_skyline.png",
+      "bytes": 3109655,
+      "sha256": "bbf941a6a3f7b312b2780494be1c6239b6e0784ba66bf69400821baaf4c9b59e"
+    },
+    {
+      "path": "previews/住宅实体墙与阳台光伏对比.png",
+      "bytes": 3391820,
+      "sha256": "c2685e68f86a8e34e82f96ac1ee7b2a0d08ca68ad195be0e2b6bb45c10189ff6"
+    },
+    {
+      "path": "previews/办公住宅新增6种.png",
+      "bytes": 3612993,
+      "sha256": "de3494318c1be905a7bebf628e7de47c5861ed9c172a45593ab26b3d423de870"
+    },
+    {
+      "path": "previews/超市与医院.png",
+      "bytes": 3194691,
+      "sha256": "4ea9d9704d62211f924e3301152df11a498b7aa6dd246600cbd46c0196f0b1ac"
+    },
+    {
+      "path": "previews/配套建筑6种对比.png",
+      "bytes": 3020787,
+      "sha256": "d0339e2bf07c24c0df9904e9d60f0b05897fbcca3787cc0a8cd9c3fa3ac42543"
+    },
+    {
+      "path": "previews/阳台光伏安装细节.png",
+      "bytes": 3388649,
+      "sha256": "8368c8b9858187c9cf139a262c7de3e477ec14538284934424e72ec89df3a160"
+    },
+    {
+      "path": "previews/高层建筑8种对比.png",
+      "bytes": 3749775,
+      "sha256": "f9848478afe16d4e9ae9096bb915900478fff6347affd2c9a7dddb202e106200"
+    },
+    {
+      "path": "pv_park_500mu_v06.blend",
+      "bytes": 7105413,
+      "sha256": "4a65aaa4959b4a66c1122c2200bc499aa3a38de1f53982a5bc8d248f00374d31"
+    },
+    {
+      "path": "qa/asset_rebuild_check.json",
+      "bytes": 4393,
+      "sha256": "f0360166b597764852c9717c4e534a9bbb3f193817ac21ac1938518281e87a93"
+    },
+    {
+      "path": "qa/audio_check.json",
+      "bytes": 544,
+      "sha256": "184d0e001f3d29b9584a78a7b44d1d5225556ab2bf8164c0bfbdc558fc200d5e"
+    },
+    {
+      "path": "qa/base_variants.json",
+      "bytes": 7804,
+      "sha256": "7567083140ad1889213d19014bc4c695f526603fcc124753f9056c595f52e4b9"
+    },
+    {
+      "path": "qa/city_assets.json",
+      "bytes": 9132,
+      "sha256": "31672d0d5a4d09ea3b13c33dc9985c403b27182be6c611556a9513f0fc2ee9b0"
+    },
+    {
+      "path": "qa/city_assets_audit.json",
+      "bytes": 119628,
+      "sha256": "1733da665642e89feb075efbeed5d1dfeb41461ccf875b1b0fa9dc3ba1bf7f71"
+    },
+    {
+      "path": "qa/dense_assets.json",
+      "bytes": 4726,
+      "sha256": "eae68bcecb7338b8cf060a7734b75562cd8255114a38af3592ebba990ce95d23"
+    },
+    {
+      "path": "qa/dense_assets_audit.json",
+      "bytes": 77342,
+      "sha256": "7d662663befc7a3149d92d023c929b8200f69be5f1a309893c17a1ac18497153"
+    },
+    {
+      "path": "qa/design_extension.md",
+      "bytes": 509,
+      "sha256": "d4cfee092aa730634fc02eff72f4f47a9183b7e359302a725259372e795467e5"
+    },
+    {
+      "path": "qa/infrastructure.json",
+      "bytes": 148061,
+      "sha256": "a6695dc0f6ad915754f02fd94fa3c41540f277d4d2df013232285ec9982888a6"
+    },
+    {
+      "path": "qa/layout_check.json",
+      "bytes": 125711,
+      "sha256": "5859199a77dff5cf7728efcabe27091bf2c201c4640d92eed7136c4bef5846d3"
+    },
+    {
+      "path": "qa/mega_assets.json",
+      "bytes": 1731,
+      "sha256": "00e5194ba5c6680ccb34834041c04bd448e1dfb1337dc667b2fa38a75af37d34"
+    },
+    {
+      "path": "qa/mega_glb_audit.json",
+      "bytes": 16335,
+      "sha256": "96a81a0b8f1bcf859586495f506bd75d4fba1460a75801eed032f51fe0bade24"
+    },
+    {
+      "path": "qa/mega_roundtrip.json",
+      "bytes": 203,
+      "sha256": "887c530a6499b1721114cf8258d89b3eeba34bcba75322f3028b842d10d635f4"
+    },
+    {
+      "path": "qa/native_tour_check.json",
+      "bytes": 1794,
+      "sha256": "d227138413ea8121ff9dcbb1e0f73e88ed602b378b4d2d6c5a781461dbe5807b"
+    },
+    {
+      "path": "qa/park_build.json",
+      "bytes": 27599,
+      "sha256": "6533b385846b93dcd684f1e45832c10654a0fcbb1d65ef8eb95ca0cac1aa2a04"
+    },
+    {
+      "path": "qa/park_check.json",
+      "bytes": 146092,
+      "sha256": "ac6bb03f4c73542ce15b3ee4e5889a701b2b5cf3db333f77ff69be536f3b5220"
+    },
+    {
+      "path": "qa/park_config.json",
+      "bytes": 1629,
+      "sha256": "aa2e1a9295375938a83b43b218e2023e2bf582e11de236e20b642430331d3965"
+    },
+    {
+      "path": "qa/park_layout.json",
+      "bytes": 33739,
+      "sha256": "803f2fd19a9854ba91e32b1e9c1aac0aa964739558a78e9081defd452df4a2d4"
+    },
+    {
+      "path": "qa/parking_extra.json",
+      "bytes": 729,
+      "sha256": "7ebfa9c1419a2ea98238f5e4db5a74a1d3f664b81c8d767d7c9a1066e63f84d8"
+    },
+    {
+      "path": "qa/parking_extra_validation.json",
+      "bytes": 8760,
+      "sha256": "adb894a6250145a7cb8ebe16fc1ddfda941300180d40e325aec1c0b1d0d7aa93"
+    },
+    {
+      "path": "qa/residential_v06_check.json",
+      "bytes": 3274,
+      "sha256": "b718d8f0a5b17f9c565da1dd43193ea5cee3f4293dbc5f035ed2298f5f653a9d"
+    },
+    {
+      "path": "qa/road_surfaces.json",
+      "bytes": 30992,
+      "sha256": "ccd0a5b30ea781149a4ca5c06393d7e7e85942df1861f8c8f42ce445461d3b0e"
+    },
+    {
+      "path": "qa/tour_check.json",
+      "bytes": 501,
+      "sha256": "92c7a579b97cc9f95742b6f2c1d9b3b3e7e8829415cd325a28b05ceff511e115"
+    },
+    {
+      "path": "qa/tour_keyframes.json",
+      "bytes": 6949,
+      "sha256": "7bfc01004defa436624e031ecebd7a4634b2d3e7adcf402b10f18443c5ee87b5"
+    },
+    {
+      "path": "qa/traffic_safety.json",
+      "bytes": 137620,
+      "sha256": "93730d00e313cba1c0037aed5484bedac2d54f6dbb3cb01651cb77f2b8231043"
+    },
+    {
+      "path": "qa/web_check.json",
+      "bytes": 2007,
+      "sha256": "df1227e8b6ebc390cb4a6c004414034ed6b2b7a1c2ef048cf482b14b9dbda3c4"
+    },
+    {
+      "path": "scripts/build_city_assets.py",
+      "bytes": 24760,
+      "sha256": "a5b37fe0a491116d02946d29490dc69bdfee4537a99f7d1564d053aae8f86ffd"
+    },
+    {
+      "path": "scripts/build_dense_assets.py",
+      "bytes": 14570,
+      "sha256": "0b3ee77fefe660db03d2f64fc42a40f82dc1309eadd1c8548107ab5642e8793f"
+    },
+    {
+      "path": "scripts/build_layout.py",
+      "bytes": 7044,
+      "sha256": "c5c456f74b2ded7e21bb427af7ec25376ef6294136a54ae5ee0f6a4850bb1d19"
+    },
+    {
+      "path": "scripts/build_mega_assets.py",
+      "bytes": 13705,
+      "sha256": "1e7021dbac33711a1fbe57d5ad2e45fbce23c031ac6608e570f95161083b844c"
+    },
+    {
+      "path": "scripts/build_park.py",
+      "bytes": 18401,
+      "sha256": "8ed7664716abbabe0982ced3978c6eb3a8a9b8e48c66ed45f37b598971b95871"
+    },
+    {
+      "path": "scripts/build_parking_extra.py",
+      "bytes": 6910,
+      "sha256": "4737e9e8895896db6a1b655a6efb9200e8c2597b3546734b6a7fd3f3034376f0"
+    },
+    {
+      "path": "scripts/build_variants.py",
+      "bytes": 11261,
+      "sha256": "120e850ab8c9f6df550896ba186fc4e4ecb5c030c903e73bd373c11cf5d4b34b"
+    },
+    {
+      "path": "scripts/finish_video.py",
+      "bytes": 2384,
+      "sha256": "7e6a0e759e87d6b1563a2d0107eda519c83d0a77e8236fc7ce37face9115f7f1"
+    },
+    {
+      "path": "scripts/infrastructure.py",
+      "bytes": 17207,
+      "sha256": "e92ba70817cb768565662970eaaa5f12dd5b0b1f98c3f785d229ebbf6a8b6432"
+    },
+    {
+      "path": "scripts/kit_helpers/build_kit.py",
+      "bytes": 23542,
+      "sha256": "688e3203530abb0bb32473d675d17b172a882a5c51c0ba4eaf7efff567e9a144"
+    },
+    {
+      "path": "scripts/kit_helpers/contact_variants.py",
+      "bytes": 1616,
+      "sha256": "11792e7a730381777614ec84091ff23c66520d1a8a04f44ff4aa74e2ae1062d5"
+    },
+    {
+      "path": "scripts/kit_helpers/extra_elements.py",
+      "bytes": 7115,
+      "sha256": "4773e91084cec2fc16e646d0c2e985156f154cc170f7032590af6797b6d7c90a"
+    },
+    {
+      "path": "scripts/kit_helpers/mini_people.py",
+      "bytes": 1629,
+      "sha256": "722d20cb33a9184b70e3f8025628a0f713e04f639989ee1430b23f98c8034484"
+    },
+    {
+      "path": "scripts/kit_helpers/tower_interiors.py",
+      "bytes": 5580,
+      "sha256": "690e32783683f26fbe2b7902a96066e04943898815c2694e301f1addbd28fce1"
+    },
+    {
+      "path": "scripts/make_audio.py",
+      "bytes": 6214,
+      "sha256": "3b4277d5e6e111c487c0bd9f71bf789ad7961335b22c4dd8c96839061e476aac"
+    },
+    {
+      "path": "scripts/package_v06.py",
+      "bytes": 19534,
+      "sha256": "cc91fdc6fc7eb097c2d437c2d20389f5f1bd21bdd3f0a41cb86f15cf0b9c8e44"
+    },
+    {
+      "path": "scripts/render_sample_movie.py",
+      "bytes": 4723,
+      "sha256": "5e0aa943a0100a73aafdc3ae8156c1bef6ca82a600ab0a9e4350a9ab1ea0ac0f"
+    },
+    {
+      "path": "scripts/render_tour_stills.py",
+      "bytes": 1382,
+      "sha256": "3ebb467c6b1508d49b2d147e91efb3d179726a68ab8289d4be52249a89d2a925"
+    },
+    {
+      "path": "scripts/road_surfaces.py",
+      "bytes": 2809,
+      "sha256": "f54a808b58d8f75b3fa9236fe19be34aa3ac17691547661ff53319e8592497a4"
+    },
+    {
+      "path": "scripts/serve_video_export.py",
+      "bytes": 1328,
+      "sha256": "5b10cb58e84920ab869f4404f2d7c304b8d751e0444bfdcb72f224ba1b029ee9"
+    },
+    {
+      "path": "scripts/tour_path.py",
+      "bytes": 3973,
+      "sha256": "305404ca6bab9d045aad59ab41902d9b1aa0589d43027c1659ad4d9551867820"
+    },
+    {
+      "path": "scripts/validate_glb.py",
+      "bytes": 10407,
+      "sha256": "2c1fc32f8d0080ecf2664e1a8cd10d1f3bb05484f72444a3aac22dae0a2512aa"
+    },
+    {
+      "path": "scripts/validate_park.py",
+      "bytes": 20412,
+      "sha256": "0d8d1ee6f9861e39bef827ff9f9a2333802a53a13d6c8718c274f6208bdb22fa"
+    },
+    {
+      "path": "textures/pv_cells.png",
+      "bytes": 1321,
+      "sha256": "0a05f11bae548be83420ee93e0a0399afaa5b689295b533ff44d3c071da65d9b"
+    },
+    {
+      "path": "textures/pv_strip.png",
+      "bytes": 504,
+      "sha256": "af31adccb1742fce1e314fa9868efe953041a6a846643fd0c194eb8f82a5cc02"
+    },
+    {
+      "path": "video/build_subtitles.py",
+      "bytes": 4047,
+      "sha256": "19a3112b6eb6c24b923786bf2b7aaa42b79c635681a3da9631ed4ba15558df06"
+    },
+    {
+      "path": "video/caption_cues.json",
+      "bytes": 3360,
+      "sha256": "6ce43ddd64bc7f56df30b77528cf65a4a4d64c10b99e70c114e9546eb0355943"
+    },
+    {
+      "path": "video/render_report.json",
+      "bytes": 353,
+      "sha256": "140db6cdcf2d335720b5e1c18594099b4c3825aa9ca7ef50b381164bb19c3bdc"
+    },
+    {
+      "path": "video/subtitle_qa.json",
+      "bytes": 4396,
+      "sha256": "9f75c1841188cfae7fbd7cb60594aff3be71b9a5b527d008f4a1edcdaa769530"
+    },
+    {
+      "path": "video/video_qa.json",
+      "bytes": 677,
+      "sha256": "e09c7cc9201615360d73ff8c873be53779a7ef46ff2cc3ac7043acbc3151f437"
+    },
+    {
+      "path": "video/光储充示范园区_云浏览.ass",
+      "bytes": 2671,
+      "sha256": "d3f80d5011450b5816a919a72611978b0abc98db1d2015a7579323342b68d985"
+    },
+    {
+      "path": "video/光储充示范园区_云浏览.srt",
+      "bytes": 1636,
+      "sha256": "a81e1b570cb99bf1f55ea901945af8d2b5debced205bdd34f1d5327b64c3658a"
+    },
+    {
+      "path": "video/光储充示范园区_云浏览_慢速版.mp4",
+      "bytes": 125912967,
+      "sha256": "d01be45af5db05e34b4b4b0af97239e4d1193692306b9ae7bd2992090971fc2f"
+    },
+    {
+      "path": "video/成片核对.png",
+      "bytes": 2311375,
+      "sha256": "3a5beaa543162d41d19d182a06a1909dc19e7e58589d5eff9ebce151117031f0"
+    },
+    {
+      "path": "web/DEPENDENCIES.md",
+      "bytes": 2302,
+      "sha256": "b8bc73b2a7f914bdf2344f10d0226aabeb4fb7d10adf8c263d5baf79f2af154f"
+    },
+    {
+      "path": "web/app.js",
+      "bytes": 24155,
+      "sha256": "e48963450fe0ed63a7b0304776d9c7b59a04ac0f3ee2aed42d5c3d114c8342fe"
+    },
+    {
+      "path": "web/audio/sunrise.wav",
+      "bytes": 3969044,
+      "sha256": "d312a831c28b52d81594f958bab65c662961586e59eef26676505e6d5ccefccb"
+    },
+    {
+      "path": "web/audio/sunrise_cues.json",
+      "bytes": 3098,
+      "sha256": "10e014956615fb024b73ea7dac2af7803510ece4df4b761463904cb23162225f"
+    },
+    {
+      "path": "web/export.html",
+      "bytes": 5324,
+      "sha256": "20a51d7d8df3c253bed5d8c6da784294984a3fee8782c18015eae974d1007b4e"
+    },
+    {
+      "path": "web/export.js",
+      "bytes": 6377,
+      "sha256": "f0060a95bcedf631afa8f95fbb990a45b9673ec273845330414fc1915eb401f9"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 4740,
+      "sha256": "a230c80a1e5262b43ab427124c57e5ceb19ae78a47afcbebe2f5e06157d91bf4"
+    },
+    {
+      "path": "web/style.css",
+      "bytes": 12496,
+      "sha256": "76e6425263a04c468bb4acddf434e1e18462f7098241236b02de629dd311c80f"
+    },
+    {
+      "path": "web/tour.js",
+      "bytes": 834,
+      "sha256": "c02b8bb46b682054a398c940458e95a79ae0c6edc303c1f1d7fc1938e6a8cbf1"
+    },
+    {
+      "path": "web/vendor/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "path": "web/vendor/GLTFLoader.js",
+      "bytes": 114732,
+      "sha256": "adbbafe8ce40416525b6be0ee5cac0d3782482bcf0122c8ca8ec1ffa77d3440b"
+    },
+    {
+      "path": "web/vendor/LICENSE-three.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "web/vendor/OrbitControls.js",
+      "bytes": 38703,
+      "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+    },
+    {
+      "path": "web/vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "web/vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "启动预览.command",
+      "bytes": 1522,
+      "sha256": "f24c153e7f8ee31264288dc08a55306a56128c81673965d4d868aee0d7f28d26"
+    },
+    {
+      "path": "项目需求提示词.md",
+      "bytes": 5739,
+      "sha256": "f69e37f52da99d4b4b046f50b1aa1a6c6c89143d3d2b357a56c9777cb9f521da"
+    }
+  ]
+}
