@@ -1,0 +1,137 @@
+{
+  "blender": "5.2.0 LTS",
+  "aircraft_count": 1,
+  "model_components": 716,
+  "camera_count": 8,
+  "packed_images": [
+    "Reference-derived camouflage • editable palette",
+    "Revision_Ref_1.png",
+    "Revision_Ref_3.png",
+    "Revision_Ref_4.png",
+    "Revision_Ref_5.png",
+    "USER • Three-view exterior reference"
+  ],
+  "image_sizes": {
+    "Reference-derived camouflage • editable palette": [
+      4096,
+      4096
+    ],
+    "Revision_Ref_1.png": [
+      1498,
+      934
+    ],
+    "Revision_Ref_3.png": [
+      1544,
+      926
+    ],
+    "Revision_Ref_4.png": [
+      780,
+      934
+    ],
+    "Revision_Ref_5.png": [
+      1758,
+      810
+    ],
+    "USER • Three-view exterior reference": [
+      1328,
+      944
+    ]
+  },
+  "render_checks": [
+    {
+      "view": "Hero",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 23824478
+    },
+    {
+      "view": "Rear",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 25646217
+    },
+    {
+      "view": "Top",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 26024667
+    },
+    {
+      "view": "Front",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 23324153
+    },
+    {
+      "view": "Detail",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 29519975
+    },
+    {
+      "view": "Side",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 13304558
+    },
+    {
+      "view": "Ventral",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 8224127
+    },
+    {
+      "view": "Exhaust",
+      "width": 3840,
+      "height": 2160,
+      "bit_depth": 16,
+      "bytes": 15577390
+    }
+  ],
+  "camera_bounds": {
+    "01 | HERO • front three-quarter": [
+      0.16825932264328003,
+      0.23541146516799927,
+      0.7667252421379089,
+      0.7138229012489319
+    ],
+    "02 | REAR • three recessed exhausts": [
+      0.2302362024784088,
+      0.19135108590126038,
+      0.8445129990577698,
+      0.7429972887039185
+    ],
+    "03 | PLAN • true orthographic": [
+      0.29999998211860657,
+      0.0672956109046936,
+      0.699999988079071,
+      0.9618868231773376
+    ],
+    "04 | FRONT • wide canopy": [
+      0.12880127131938934,
+      0.20009379088878632,
+      0.8711987137794495,
+      0.6620331406593323
+    ],
+    "06 | PROFILE • true orthographic": [
+      0.06656259298324585,
+      0.3312779664993286,
+      0.9000000953674316,
+      0.5942716002464294
+    ],
+    "07 | VENTRAL • underside inspection": [
+      0.09973667562007904,
+      0.27545973658561707,
+      0.8224496245384216,
+      0.8431781530380249
+    ]
+  },
+  "exhaust_plumes": 3
+}
