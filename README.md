@@ -1,6 +1,16 @@
-# J-20 · Rafale C · F-22A 可拆分飞机模型
+# 三维模型与可视化资产
+
+## 内容导航
+
+[分类入口与逐文件清单](docs/REPOSITORY-INDEX.md) · [机器可读清单](docs/FILES.json)
 
 三款 Blender 飞机艺术模型，包含独立零件、完整装配与爆炸展开状态、往返动画及简易操作面板。模型根据公开照片与外观资料创作，内部结构为展示用示意。
+
+## 建筑与光储充园区
+
+- [CBD 建筑原模](<3D Model/Ulaanbaatar_AB_BIPV_DWG_Reconstructed.blend>)
+- [光储充示范园区 V06：下载与分卷还原](<3D Model/光储充示范园区/README.md>)
+- [光储充示范园区 V07：CBD 整合版](<3D Model/光储充示范园区/V07_CBD_整合版/README.md>)
 
 ## 新增：J-36 · 36011
 
