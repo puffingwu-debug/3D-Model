@@ -1,0 +1,632 @@
+{
+  "repository": "puffingwu-debug/3D-Model",
+  "visibility": "public",
+  "category": "三维模型与可视化资产",
+  "source_commit": "f83ae275bb9392be18f0bc0c73ae9bda8aab6365",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "organized_path": ".gitattributes",
+      "category": "版本管理与配置",
+      "bytes": 105,
+      "blob_sha": "613cf63882265ef895a76fa88c94498774439e27",
+      "content_read": true
+    },
+    {
+      "path": ".gitignore",
+      "organized_path": ".gitignore",
+      "category": "版本管理与配置",
+      "bytes": 69,
+      "blob_sha": "75be7c61162975a0debfa82287e8d6d96fc420a1",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/Ulaanbaatar_AB_BIPV_DWG_Reconstructed.blend",
+      "organized_path": "3D Model/Ulaanbaatar_AB_BIPV_DWG_Reconstructed.blend",
+      "category": "建筑原模",
+      "bytes": 11682381,
+      "blob_sha": "7330364e236e7cea3ded069e2e7ce16e4e63d8af",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/MANIFEST.json",
+      "organized_path": "3D Model/光储充示范园区/MANIFEST.json",
+      "category": "园区 / V06 交付",
+      "bytes": 27117,
+      "blob_sha": "484e887de0342750c71905a0c7b808f7d86df605",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part001",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part001",
+      "category": "园区 / V06 交付",
+      "bytes": 41943040,
+      "blob_sha": "1fba149d67b1ae80f791e22c30521de2d73a5c9b",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part002",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part002",
+      "category": "园区 / V06 交付",
+      "bytes": 41943040,
+      "blob_sha": "b50e3ef7a9728629275587c861035b67f2d8da8f",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part003",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part003",
+      "category": "园区 / V06 交付",
+      "bytes": 41943040,
+      "blob_sha": "9809f12d20c145b5bb10b45c0a0ce1d0b62ad16c",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part004",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part004",
+      "category": "园区 / V06 交付",
+      "bytes": 41943040,
+      "blob_sha": "05c77524d7e52a276d550808ea1b697faa28dc70",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part005",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part005",
+      "category": "园区 / V06 交付",
+      "bytes": 41943040,
+      "blob_sha": "f05ccf19e8e0e4dc55305a222b05186ad51c0bb3",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part006",
+      "organized_path": "3D Model/光储充示范园区/PV_Park_V06_Complete.zip.part006",
+      "category": "园区 / V06 交付",
+      "bytes": 4162327,
+      "blob_sha": "0d4e53606570c640c5fecca22e3a2c58cdad313b",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/README.md",
+      "organized_path": "3D Model/光储充示范园区/README.md",
+      "category": "园区 / V06 交付",
+      "bytes": 2232,
+      "blob_sha": "ae0bddd1e3e955e3f0553f45ef2df0123e51e6d0",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/CBD商业体_整合近景.png",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/CBD商业体_整合近景.png",
+      "category": "园区 / V07",
+      "bytes": 2642104,
+      "blob_sha": "b6b0253419602c936229dccdbc471a2aac60c5ac",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/README.md",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/README.md",
+      "category": "园区 / V07",
+      "bytes": 1142,
+      "blob_sha": "0fc744af25a6644171d997845bafb74aebf2ea17",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/V07园区全景.png",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/V07园区全景.png",
+      "category": "园区 / V07",
+      "bytes": 3266049,
+      "blob_sha": "844321c5eb74484f588f52d056c1dc7049562272",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/park.glb",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/park.glb",
+      "category": "园区 / V07",
+      "bytes": 4616640,
+      "blob_sha": "2ec863617d40b12cecce567dd67e6aae66b19655",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/pv_park_500mu_v07.blend",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/pv_park_500mu_v07.blend",
+      "category": "园区 / V07",
+      "bytes": 11964498,
+      "blob_sha": "eb9cd26a59f20b7081e8093bc0e0e493c90ca0e7",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/V07_CBD_整合版/光储充示范园区_V07_CBD整合.zip",
+      "organized_path": "3D Model/光储充示范园区/V07_CBD_整合版/光储充示范园区_V07_CBD整合.zip",
+      "category": "园区 / V07",
+      "bytes": 56464529,
+      "blob_sha": "3d4b48aba0ad9247bafaee80f289cd51397f4953",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/restore.py",
+      "organized_path": "3D Model/光储充示范园区/restore.py",
+      "category": "园区 / V06 交付",
+      "bytes": 1674,
+      "blob_sha": "b2ff2f7cd4cf43a1d8a25c191ec20afbf9216d15",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/云浏览字幕.srt",
+      "organized_path": "3D Model/光储充示范园区/云浏览字幕.srt",
+      "category": "园区 / V06 交付",
+      "bytes": 1636,
+      "blob_sha": "38262fc5656ee792440a279f6d09674945d4f097",
+      "content_read": false
+    },
+    {
+      "path": "3D Model/光储充示范园区/合并解压.command",
+      "organized_path": "3D Model/光储充示范园区/合并解压.command",
+      "category": "园区 / V06 交付",
+      "bytes": 136,
+      "blob_sha": "ebe8ad11c6023d4a96c01553a051a26f24ad8be8",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/项目需求提示词.md",
+      "organized_path": "3D Model/光储充示范园区/项目需求提示词.md",
+      "category": "园区 / V06 交付",
+      "bytes": 5739,
+      "blob_sha": "b74b67851a9aa04f4f024c16b6fbe95797d55056",
+      "content_read": true
+    },
+    {
+      "path": "3D Model/光储充示范园区/预览.png",
+      "organized_path": "3D Model/光储充示范园区/预览.png",
+      "category": "园区 / V06 交付",
+      "bytes": 2311375,
+      "blob_sha": "b7460cd15652228911bad43c937d23c558574d9c",
+      "content_read": false
+    },
+    {
+      "path": "README.md",
+      "organized_path": "README.md",
+      "category": "仓库说明",
+      "bytes": 3373,
+      "blob_sha": "1f7c6ee8bec9f1e1c6e29c541135399d0acb54e0",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/F22/Aircraft_Controls.py",
+      "organized_path": "aircraft/F22/Aircraft_Controls.py",
+      "category": "飞机模型 / F22",
+      "bytes": 10757,
+      "blob_sha": "242295989f16fb002a330b105f1b6195f69a577f",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/F22/F22_01_Assembled.png",
+      "organized_path": "aircraft/F22/F22_01_Assembled.png",
+      "category": "飞机模型 / F22",
+      "bytes": 6445908,
+      "blob_sha": "d13498cffeb59bd8033a6f64d949ff8ebba80ddd",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/F22/F22_02_Exploded.png",
+      "organized_path": "aircraft/F22/F22_02_Exploded.png",
+      "category": "飞机模型 / F22",
+      "bytes": 6651288,
+      "blob_sha": "304f2a39611dcda309a5799fe184236bd3b3d979",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/F22/F22_03_Rear.png",
+      "organized_path": "aircraft/F22/F22_03_Rear.png",
+      "category": "飞机模型 / F22",
+      "bytes": 6395596,
+      "blob_sha": "9845976fee65c1f3d22e957449747944d8c4bde3",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/F22/F22_Explode_Animation.mp4",
+      "organized_path": "aircraft/F22/F22_Explode_Animation.mp4",
+      "category": "飞机模型 / F22",
+      "bytes": 1143846,
+      "blob_sha": "a6e4acfd18b3f841d85d07d004aaa361c3b39b5f",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/F22/F22_Modular.blend",
+      "organized_path": "aircraft/F22/F22_Modular.blend",
+      "category": "飞机模型 / F22",
+      "bytes": 1620930,
+      "blob_sha": "bf8420c32714e186ea77910ed27df6185bad6486",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/F22/使用说明.txt",
+      "organized_path": "aircraft/F22/使用说明.txt",
+      "category": "飞机模型 / F22",
+      "bytes": 2229,
+      "blob_sha": "da52a17c668c9895e5f17b9c041c3b0e59d852b4",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J20/J20_01_Assembled.png",
+      "organized_path": "aircraft/J20/J20_01_Assembled.png",
+      "category": "飞机模型 / J20",
+      "bytes": 6369261,
+      "blob_sha": "957c75388ad77570b67f97635af9e08a96fd32b4",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J20/J20_02_Exploded.png",
+      "organized_path": "aircraft/J20/J20_02_Exploded.png",
+      "category": "飞机模型 / J20",
+      "bytes": 6572109,
+      "blob_sha": "f2524f6513b1ca7b53ab6eca0763e443bdcdf6d5",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J20/J20_03_Rear.png",
+      "organized_path": "aircraft/J20/J20_03_Rear.png",
+      "category": "飞机模型 / J20",
+      "bytes": 6379735,
+      "blob_sha": "03b3ab531f6f3ac85e0b9b13bba5e34672d4eec0",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J20/J20_Controls.py",
+      "organized_path": "aircraft/J20/J20_Controls.py",
+      "category": "飞机模型 / J20",
+      "bytes": 9227,
+      "blob_sha": "f05749ce57cb9a7febf2bd7fef205139981812bb",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J20/J20_Explode_Animation.mp4",
+      "organized_path": "aircraft/J20/J20_Explode_Animation.mp4",
+      "category": "飞机模型 / J20",
+      "bytes": 1017767,
+      "blob_sha": "fcf496a05d835fdac75cbb5bda29393e6f6afc15",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J20/J20_Modular.blend",
+      "organized_path": "aircraft/J20/J20_Modular.blend",
+      "category": "飞机模型 / J20",
+      "bytes": 1487681,
+      "blob_sha": "42798ad10fc7e4039224a525cb70469fdec099df",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J20/使用说明.txt",
+      "organized_path": "aircraft/J20/使用说明.txt",
+      "category": "飞机模型 / J20",
+      "bytes": 2495,
+      "blob_sha": "bd488cb8497a31f782c0b1487e909a325852dea4",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/.gitignore",
+      "organized_path": "aircraft/J36_36011/.gitignore",
+      "category": "版本管理与配置",
+      "bytes": 54,
+      "blob_sha": "09754cc7d8c775f5c12d3e928f1eb63bb5216051",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/DELIVERY.md",
+      "organized_path": "aircraft/J36_36011/DELIVERY.md",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 2824,
+      "blob_sha": "205347f4923b352bf14d7afc87cd7d3cfa2933e6",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/J36_36011_Master.blend",
+      "organized_path": "aircraft/J36_36011/J36_36011_Master.blend",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 8485468,
+      "blob_sha": "2ec6b649ea2f94e4a43bc522a72bc51a4d52b008",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/README.md",
+      "organized_path": "aircraft/J36_36011/README.md",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 2167,
+      "blob_sha": "5a88afc877fa4e773a1477ab0d1e6b18255ee9c7",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/model_stats.json",
+      "organized_path": "aircraft/J36_36011/model_stats.json",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 129,
+      "blob_sha": "89c92b837ad76e129ba7b5664bf173f40cf78d8c",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_No_Probe.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_No_Probe.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 722607,
+      "blob_sha": "c0f1f9492850a0dfa411eed73b2cb37c7b04fc2a",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_Ref_1.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_Ref_1.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 758634,
+      "blob_sha": "ae51c999270a154ac1bb381ac1f4517e785f897f",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_Ref_2.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_Ref_2.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 1706529,
+      "blob_sha": "5244c0f31806aa778251ec3896cee9adedf48a45",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_Ref_3.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_Ref_3.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 633785,
+      "blob_sha": "cc0bbb9c551b456c4f4ce2314a88bbcb45de88fa",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_Ref_4.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_Ref_4.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 328251,
+      "blob_sha": "e008bfcd4c9b53590e989f9ff0d417ecdc1be271",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/Revision_Ref_5.png",
+      "organized_path": "aircraft/J36_36011/references/Revision_Ref_5.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 420156,
+      "blob_sha": "6bfc12f49d5f11e971bd201b1c27f0cf5209933b",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/User_Three_View.png",
+      "organized_path": "aircraft/J36_36011/references/User_Three_View.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 453398,
+      "blob_sha": "13fa3f5ac2711946b1cd4c6d8ceeb487ed4f503d",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/composite.jpg",
+      "organized_path": "aircraft/J36_36011/references/composite.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 163466,
+      "blob_sha": "e82680488568b8f468525565789d998a33092f92",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/front.jpg",
+      "organized_path": "aircraft/J36_36011/references/front.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 292276,
+      "blob_sha": "a13a31fe2848b913144810d4d234f175226810dd",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/front_close.jpg",
+      "organized_path": "aircraft/J36_36011/references/front_close.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 383738,
+      "blob_sha": "44ad0c15005925199787bf0a90016c9c1ceb983f",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/rear.jpg",
+      "organized_path": "aircraft/J36_36011/references/rear.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 47363,
+      "blob_sha": "5113f41a029229c2e75ffebb941320b97c6b3281",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/underside.jpg",
+      "organized_path": "aircraft/J36_36011/references/underside.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 43641,
+      "blob_sha": "fe0eb8b7b787f911d271f9bdefeb02781888c335",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/references/underside_close.jpg",
+      "organized_path": "aircraft/J36_36011/references/underside_close.jpg",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 102062,
+      "blob_sha": "7ed5a2a1fd4fefc8a424b592e875c8ea25aecc82",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Detail_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Detail_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 29519975,
+      "blob_sha": "585d2eab1067ed6591016c6be2d64863f6996c17",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Exhaust_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Exhaust_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 15577390,
+      "blob_sha": "1827399599c73fbc9f0b03426ab8503ec54296c8",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Front_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Front_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 23324153,
+      "blob_sha": "e4f460802ffd73c53206865e0479f6a1fa3d796b",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Hero_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Hero_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 23824478,
+      "blob_sha": "495e5f97747546286c1f6543afc55888cc6e6c62",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Rear_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Rear_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 25646217,
+      "blob_sha": "d9156884849f2c588330a871ca8e4ac1690814a2",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Side_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Side_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 13304558,
+      "blob_sha": "8ada22848e30b1d3746b5477146cf51f6e236e19",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Top_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Top_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 26024667,
+      "blob_sha": "d7a796a186c2c7e1f0ab485c31157e44cde0e5e6",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/renders/J36_36011_Ventral_4K.png",
+      "organized_path": "aircraft/J36_36011/renders/J36_36011_Ventral_4K.png",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 8224127,
+      "blob_sha": "9be2785444baa1259bf331a80b34de3aaf7585a8",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/build_j36.py",
+      "organized_path": "aircraft/J36_36011/scripts/build_j36.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 34269,
+      "blob_sha": "5d5b9ca738e897d09972735c537dc13d0b3b5537",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/camouflage.py",
+      "organized_path": "aircraft/J36_36011/scripts/camouflage.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 7271,
+      "blob_sha": "a3c7b009fcd2e8946f30b949437f828b1e827ff7",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/exhaust_fx.py",
+      "organized_path": "aircraft/J36_36011/scripts/exhaust_fx.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 8022,
+      "blob_sha": "4bd4cf0749d560d999088549390559863741c962",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/gear.py",
+      "organized_path": "aircraft/J36_36011/scripts/gear.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 13516,
+      "blob_sha": "3e9ca659f72bb95f941291b13c2f6b548d9339f0",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/render_views.py",
+      "organized_path": "aircraft/J36_36011/scripts/render_views.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 2260,
+      "blob_sha": "abbacac137dfa4068f40578da41174c79db13291",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/ventral_detail.py",
+      "organized_path": "aircraft/J36_36011/scripts/ventral_detail.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 5357,
+      "blob_sha": "d5bcb99bb47f651272b1ebdd9980bb4b7149456f",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/scripts/verify_delivery.py",
+      "organized_path": "aircraft/J36_36011/scripts/verify_delivery.py",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 3274,
+      "blob_sha": "5c6582cf95d1c04df09b05ff36218fdf77f99668",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/J36_36011/verification.json",
+      "organized_path": "aircraft/J36_36011/verification.json",
+      "category": "飞机模型 / J36_36011",
+      "bytes": 2753,
+      "blob_sha": "7e029f5cafd9835e8a02d4799034d544475d5a75",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/Rafale/Aircraft_Controls.py",
+      "organized_path": "aircraft/Rafale/Aircraft_Controls.py",
+      "category": "飞机模型 / Rafale",
+      "bytes": 10757,
+      "blob_sha": "242295989f16fb002a330b105f1b6195f69a577f",
+      "content_read": true
+    },
+    {
+      "path": "aircraft/Rafale/Rafale_01_Assembled.png",
+      "organized_path": "aircraft/Rafale/Rafale_01_Assembled.png",
+      "category": "飞机模型 / Rafale",
+      "bytes": 6296383,
+      "blob_sha": "98eb1a925f2de9ddf00637aa91fba64acef6718f",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/Rafale/Rafale_02_Exploded.png",
+      "organized_path": "aircraft/Rafale/Rafale_02_Exploded.png",
+      "category": "飞机模型 / Rafale",
+      "bytes": 6572956,
+      "blob_sha": "c0500959b056d1584d4b87c4c4476732c375bd9d",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/Rafale/Rafale_03_Rear.png",
+      "organized_path": "aircraft/Rafale/Rafale_03_Rear.png",
+      "category": "飞机模型 / Rafale",
+      "bytes": 6319974,
+      "blob_sha": "2d2a5ac5510fbe3d13fc268fb482cb3f6f489f25",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/Rafale/Rafale_Explode_Animation.mp4",
+      "organized_path": "aircraft/Rafale/Rafale_Explode_Animation.mp4",
+      "category": "飞机模型 / Rafale",
+      "bytes": 1119156,
+      "blob_sha": "d73bec2bf4e6ebb562c662b637976947b6eeb907",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/Rafale/Rafale_Modular.blend",
+      "organized_path": "aircraft/Rafale/Rafale_Modular.blend",
+      "category": "飞机模型 / Rafale",
+      "bytes": 1310285,
+      "blob_sha": "070ba7444cff3d68a9d3bd64cbb2b02506181caf",
+      "content_read": false
+    },
+    {
+      "path": "aircraft/Rafale/使用说明.txt",
+      "organized_path": "aircraft/Rafale/使用说明.txt",
+      "category": "飞机模型 / Rafale",
+      "bytes": 2160,
+      "blob_sha": "6340aea65a30b947c21d3dbf5d06b5d1f0703a60",
+      "content_read": true
+    }
+  ]
+}
